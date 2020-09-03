@@ -1,7 +1,7 @@
 # JavaScript 201 - Programming Exercises
 
 Programming exercises for a beginning JavaScript programmer.
-
+Hello
 These exercises use Strings, loops, Objects, and Arrays to solve logic problems.
 
 ## Install
@@ -42,5 +42,5 @@ test.
 
 [ISC License](LICENSE.md)
 
-[Node.js]:https://nodejs.org/
-[npm]:https://en.wikipedia.org/wiki/Npm_(software)
+[node.js]: https://nodejs.org/
+[npm]: https://en.wikipedia.org/wiki/Npm_(software)
